@@ -1,3 +1,5 @@
+streamlit
+google-genai
 chromadb~=1.5.9
 protobuf~=7.36.2
 sentence-transformers~=6.2.0
